@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-22 07:00:00 WIB – 2025-12-28 07:00:00 WIB
 
-🔄 **Updated at:** 2025-12-30 03:26:05 WIB
+🔄 **Updated at:** 2025-12-30 04:23:47 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -31,7 +31,7 @@
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/nayla jkt48/Nayla JKT48.jpg" width="60" /> | Nayla JKT48 | 96 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gita jkt48/gita jkt48.jpg" width="60" /> | Gita JKT48 | 93 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 92 | 25 |
-| 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1766320901914.jpg" width="60" /> | Daisy JKT48 | 81 | 26 |
+| 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767089363171.jpg" width="60" /> | Daisy JKT48 | 81 | 26 |
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748504815987.jpg" width="60" /> | Anindya JKT48 | 76 | 27 |
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 72 | 28 |
 | 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/ribka jkt48/Ribka JKT48.jpg" width="60" /> | Ribka JKT48 | 69 | 29 |
