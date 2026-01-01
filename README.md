@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-22 07:00:00 WIB – 2025-12-28 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-01 08:20:04 WIB
+🔄 **Updated at:** 2026-01-01 09:21:36 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -16,7 +16,7 @@
 | 8 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765126633703.jpg" width="60" /> | Lia JKT48 | 293 | 8 |
 | 9 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496507881.jpg" width="60" /> | Jemima JKT48 | 171 | 9 |
 | 10 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1746694606252.jpg" width="60" /> | Danella JKT48 | 165 | 10 |
-| 11 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/erine jkt48/Erine JKT48.jpg" width="60" /> | Erine JKT48 | 153 | 11 |
+| 11 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767278550563.jpg" width="60" /> | Erine JKT48 | 153 | 11 |
 | 12 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/levi jkt48/Levi JKT48.jpg" width="60" /> | Levi JKT48 | 150 | 12 |
 | 13 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 133 | 13 |
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496992223.jpg" width="60" /> | Rilly JKT48 | 129 | 14 |
