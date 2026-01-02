@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-22 07:00:00 WIB – 2025-12-28 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-02 03:25:27 WIB
+🔄 **Updated at:** 2026-01-02 04:22:19 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -27,7 +27,7 @@
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 115 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 113 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748494261432.jpg" width="60" /> | Ella JKT48 | 108 | 21 |
-| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767269588534.jpg" width="60" /> | Nachia JKT48 | 99 | 22 |
+| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767346847445.jpg" width="60" /> | Nachia JKT48 | 99 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/nayla jkt48/Nayla JKT48.jpg" width="60" /> | Nayla JKT48 | 96 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gita jkt48/gita jkt48.jpg" width="60" /> | Gita JKT48 | 93 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 92 | 25 |
