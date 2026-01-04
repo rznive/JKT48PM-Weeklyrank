@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-29 07:00:00 WIB – 2026-01-04 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-04 03:20:11 WIB
+🔄 **Updated at:** 2026-01-04 04:21:03 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -31,7 +31,7 @@
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767346847445.jpg" width="60" /> | Nachia JKT48 | 94 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 92 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748504815987.jpg" width="60" /> | Anindya JKT48 | 92 | 25 |
-| 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748495897873.jpg" width="60" /> | Trisha JKT48 | 91 | 26 |
+| 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767519800863.jpg" width="60" /> | Trisha JKT48 | 91 | 26 |
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748494261432.jpg" width="60" /> | Ella JKT48 | 90 | 27 |
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1752859084363.jpg" width="60" /> | Fiony JKT48 | 82 | 28 |
 | 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 82 | 29 |
