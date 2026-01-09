@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-29 07:00:00 WIB – 2026-01-04 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-09 02:31:17 WIB
+🔄 **Updated at:** 2026-01-09 03:28:33 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -36,7 +36,7 @@
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1752859084363.jpg" width="60" /> | Fiony JKT48 | 82 | 28 |
 | 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 82 | 29 |
 | 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748523415299.jpg" width="60" /> | Cynthia JKT48 | 79 | 30 |
-| 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767269923944.jpg" width="60" /> | Nala JKT48 | 74 | 31 |
+| 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767949073643.jpg" width="60" /> | Nala JKT48 | 74 | 31 |
 | 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 74 | 32 |
 | 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767248510392.jpg" width="60" /> | Ribka JKT48 | 67 | 33 |
 | 34 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/muthe jkt48/muthe jkt48.jpg" width="60" /> | Muthe JKT48 | 60 | 34 |
