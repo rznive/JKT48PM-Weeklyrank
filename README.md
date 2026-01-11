@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-01-05 07:00:00 WIB – 2026-01-11 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-11 05:18:04 WIB
+🔄 **Updated at:** 2026-01-11 06:41:32 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -35,7 +35,7 @@
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496992223.jpg" width="60" /> | Rilly JKT48 | 74 | 27 |
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763043739897.jpg" width="60" /> | Jessi JKT48 | 72 | 28 |
 | 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1764141072645.jpg" width="60" /> | Alya JKT48 | 72 | 29 |
-| 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767519800863.jpg" width="60" /> | Trisha JKT48 | 65 | 30 |
+| 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768131760973.jpg" width="60" /> | Trisha JKT48 | 65 | 30 |
 | 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 59 | 31 |
 | 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 48 | 32 |
 | 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768017247229.jpg" width="60" /> | Oline JKT48 | 48 | 33 |
