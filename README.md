@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-01-05 07:00:00 WIB – 2026-01-11 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-11 23:29:48 WIB
+🔄 **Updated at:** 2026-01-12 00:37:44 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -30,7 +30,7 @@
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767769058694.jpg" width="60" /> | Aralie JKT48 | 87 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 86 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767896705946.jpg" width="60" /> | Levi JKT48 | 85 | 24 |
-| 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/nayla jkt48/Nayla JKT48.jpg" width="60" /> | Nayla JKT48 | 79 | 25 |
+| 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768196033674.jpg" width="60" /> | Nayla JKT48 | 79 | 25 |
 | 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767610838156.jpg" width="60" /> | Anindya JKT48 | 75 | 26 |
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496992223.jpg" width="60" /> | Rilly JKT48 | 74 | 27 |
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763043739897.jpg" width="60" /> | Jessi JKT48 | 72 | 28 |
@@ -59,4 +59,3 @@
 | 51 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/olla/olla.jpg" width="60" /> | Olla JKT48 | 7 | 51 |
 | 52 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1756781665164.jpg" width="60" /> | Indah JKT48 | 3 | 52 |
 | 53 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/amanda/amanda.png" width="60" /> | Amanda JKT48 | 3 | 53 |
-| 58 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gracia jkt48/gracia jkt48.jpg" width="60" /> | Gracia JKT48 | 0 | 58 |
