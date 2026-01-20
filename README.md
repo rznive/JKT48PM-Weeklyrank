@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-01-12 07:00:00 WIB – 2026-01-18 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-20 09:31:26 WIB
+🔄 **Updated at:** 2026-01-20 10:36:27 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -48,7 +48,7 @@
 | 40 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748540467966.jpg" width="60" /> | Chelsea JKT48 | 35 | 40 |
 | 41 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763043739897.jpg" width="60" /> | Jessi JKT48 | 34 | 41 |
 | 42 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1759080652726.jpg" width="60" /> | Gendis JKT48 | 31 | 42 |
-| 43 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748493990866.jpg" width="60" /> | Christy JKT48 | 31 | 43 |
+| 43 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768923095906.jpg" width="60" /> | Christy JKT48 | 31 | 43 |
 | 44 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765564066271.jpg" width="60" /> | Kathrina JKT48 | 27 | 44 |
 | 45 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 18 | 45 |
 | 46 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763817850617.jpg" width="60" /> | Eli JKT48 | 15 | 46 |
