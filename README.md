@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-01-19 07:00:00 WIB – 2026-01-25 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-25 06:43:01 WIB
+🔄 **Updated at:** 2026-01-25 07:32:14 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -22,7 +22,7 @@
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767809890060.jpg" width="60" /> | Elin JKT48 | 130 | 14 |
 | 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767769058694.jpg" width="60" /> | Aralie JKT48 | 126 | 15 |
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 120 | 16 |
-| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768025736116.jpg" width="60" /> | Ribka JKT48 | 112 | 17 |
+| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769347611525.jpg" width="60" /> | Ribka JKT48 | 112 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748523415299.jpg" width="60" /> | Cynthia JKT48 | 103 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496507881.jpg" width="60" /> | Jemima JKT48 | 101 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768196033674.jpg" width="60" /> | Nayla JKT48 | 97 | 20 |
