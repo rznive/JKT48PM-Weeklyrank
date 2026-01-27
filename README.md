@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-01-19 07:00:00 WIB – 2026-01-25 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-26 17:22:41 WIB
+🔄 **Updated at:** 2026-01-26 19:53:39 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -29,7 +29,7 @@
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496541667.jpg" width="60" /> | Mikaela JKT48 | 96 | 21 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/muthe jkt48/muthe jkt48.jpg" width="60" /> | Muthe JKT48 | 95 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767894100908.jpg" width="60" /> | Erine JKT48 | 94 | 23 |
-| 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769437114320.jpg" width="60" /> | Lily JKT48 | 91 | 24 |
+| 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769478462835.jpg" width="60" /> | Lily JKT48 | 91 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 88 | 25 |
 | 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 84 | 26 |
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496992223.jpg" width="60" /> | Rilly JKT48 | 82 | 27 |
