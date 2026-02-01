@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-01-26 07:00:00 WIB – 2026-02-01 07:00:00 WIB
 
-🔄 **Updated at:** 2026-02-01 02:33:29 WIB
+🔄 **Updated at:** 2026-02-01 03:31:26 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -42,7 +42,7 @@
 | 34 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 65 | 34 |
 | 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110747895.jpg" width="60" /> | Raisha JKT48 | 57 | 35 |
 | 36 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1759080652726.jpg" width="60" /> | Gendis JKT48 | 56 | 36 |
-| 37 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767949073643.jpg" width="60" /> | Nala JKT48 | 56 | 37 |
+| 37 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769934954334.jpg" width="60" /> | Nala JKT48 | 56 | 37 |
 | 38 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/muthe jkt48/muthe jkt48.jpg" width="60" /> | Muthe JKT48 | 54 | 38 |
 | 39 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765564066271.jpg" width="60" /> | Kathrina JKT48 | 51 | 39 |
 | 40 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767270115752.jpg" width="60" /> | Kimmy JKT48 | 51 | 40 |
