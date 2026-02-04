@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-01-26 07:00:00 WIB – 2026-02-01 07:00:00 WIB
 
-🔄 **Updated at:** 2026-02-04 01:44:01 WIB
+🔄 **Updated at:** 2026-02-04 02:41:35 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -20,7 +20,7 @@
 | 12 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1746694606252.jpg" width="60" /> | Danella JKT48 | 151 | 12 |
 | 13 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767809890060.jpg" width="60" /> | Elin JKT48 | 137 | 13 |
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767780079829.jpg" width="60" /> | Daisy JKT48 | 135 | 14 |
-| 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769700024623.jpg" width="60" /> | Nayla JKT48 | 128 | 15 |
+| 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1770191868426.jpg" width="60" /> | Nayla JKT48 | 128 | 15 |
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1770145602906.jpg" width="60" /> | Erine JKT48 | 118 | 16 |
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748523415299.jpg" width="60" /> | Cynthia JKT48 | 116 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767346847445.jpg" width="60" /> | Nachia JKT48 | 115 | 18 |
