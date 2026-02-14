@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-02-02 07:00:00 WIB – 2026-02-08 07:00:00 WIB
 
-🔄 **Updated at:** 2026-02-14 07:44:15 WIB
+🔄 **Updated at:** 2026-02-14 08:27:40 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -25,7 +25,7 @@
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767346847445.jpg" width="60" /> | Nachia JKT48 | 109 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763043739897.jpg" width="60" /> | Jessi JKT48 | 107 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 107 | 19 |
-| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767780079829.jpg" width="60" /> | Daisy JKT48 | 106 | 20 |
+| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771077467255.jpg" width="60" /> | Daisy JKT48 | 106 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 103 | 21 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 103 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748494261432.jpg" width="60" /> | Ella JKT48 | 100 | 23 |
