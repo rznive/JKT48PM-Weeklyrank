@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-02-09 07:00:00 WIB – 2026-02-15 07:00:00 WIB
 
-🔄 **Updated at:** 2026-02-19 05:37:56 WIB
+🔄 **Updated at:** 2026-02-19 07:06:20 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -42,7 +42,7 @@
 | 34 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749050823597.jpg" width="60" /> | Oniel JKT48 | 66 | 34 |
 | 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1764141072645.jpg" width="60" /> | Alya JKT48 | 65 | 35 |
 | 36 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767270115752.jpg" width="60" /> | Kimmy JKT48 | 61 | 36 |
-| 37 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769347611525.jpg" width="60" /> | Ribka JKT48 | 60 | 37 |
+| 37 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771505310510.jpg" width="60" /> | Ribka JKT48 | 60 | 37 |
 | 38 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765564066271.jpg" width="60" /> | Kathrina JKT48 | 55 | 38 |
 | 39 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/muthe jkt48/muthe jkt48.jpg" width="60" /> | Muthe JKT48 | 55 | 39 |
 | 40 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1766692091302.jpg" width="60" /> | Freya JKT48 | 51 | 40 |
