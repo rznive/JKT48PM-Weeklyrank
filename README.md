@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-02-09 07:00:00 WIB – 2026-02-15 07:00:00 WIB
 
-🔄 **Updated at:** 2026-02-19 11:50:20 WIB
+🔄 **Updated at:** 2026-02-19 12:51:38 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -37,7 +37,7 @@
 | 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1770191868426.jpg" width="60" /> | Nayla JKT48 | 84 | 29 |
 | 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/michie jkt48/michie jkt48.jpg" width="60" /> | Michie JKT48 | 84 | 30 |
 | 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 81 | 31 |
-| 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1752859084363.jpg" width="60" /> | Fiony JKT48 | 69 | 32 |
+| 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771524586142.jpg" width="60" /> | Fiony JKT48 | 69 | 32 |
 | 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767610838156.jpg" width="60" /> | Anindya JKT48 | 67 | 33 |
 | 34 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749050823597.jpg" width="60" /> | Oniel JKT48 | 66 | 34 |
 | 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1764141072645.jpg" width="60" /> | Alya JKT48 | 65 | 35 |
