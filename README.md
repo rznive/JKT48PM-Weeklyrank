@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-02-16 07:00:00 WIB – 2026-02-22 07:00:00 WIB
 
-🔄 **Updated at:** 2026-02-22 03:31:20 WIB
+🔄 **Updated at:** 2026-02-22 04:25:53 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -47,7 +47,7 @@
 | 39 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110747895.jpg" width="60" /> | Raisha JKT48 | 48 | 39 |
 | 40 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lyn jkt48/lyn jkt48.jpg" width="60" /> | Lyn JKT48 | 43 | 40 |
 | 41 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lulu/lulu.jpg" width="60" /> | Lulu JKT48 | 42 | 41 |
-| 42 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768131760973.jpg" width="60" /> | Trisha JKT48 | 42 | 42 |
+| 42 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771753070127.jpg" width="60" /> | Trisha JKT48 | 42 | 42 |
 | 43 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765564066271.jpg" width="60" /> | Kathrina JKT48 | 42 | 43 |
 | 44 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768923095906.jpg" width="60" /> | Christy JKT48 | 42 | 44 |
 | 45 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749050823597.jpg" width="60" /> | Oniel JKT48 | 39 | 45 |
