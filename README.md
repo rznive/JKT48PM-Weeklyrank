@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-02-16 07:00:00 WIB – 2026-02-22 07:00:00 WIB
 
-🔄 **Updated at:** 2026-02-25 22:50:31 WIB
+🔄 **Updated at:** 2026-02-25 23:57:38 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -43,7 +43,7 @@
 | 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 64 | 35 |
 | 36 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/muthe jkt48/muthe jkt48.jpg" width="60" /> | Muthe JKT48 | 64 | 36 |
 | 37 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 63 | 37 |
-| 38 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 56 | 38 |
+| 38 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1772085217891.jpg" width="60" /> | Cathy JKT48 | 56 | 38 |
 | 39 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110747895.jpg" width="60" /> | Raisha JKT48 | 48 | 39 |
 | 40 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lyn jkt48/lyn jkt48.jpg" width="60" /> | Lyn JKT48 | 43 | 40 |
 | 41 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lulu/lulu.jpg" width="60" /> | Lulu JKT48 | 42 | 41 |
