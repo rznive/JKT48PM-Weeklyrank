@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-03-02 07:00:00 WIB – 2026-03-08 07:00:00 WIB
 
-🔄 **Updated at:** 2026-03-11 07:01:14 WIB
+🔄 **Updated at:** 2026-03-11 08:45:52 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -13,7 +13,7 @@
 | 5 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1746694606252.jpg" width="60" /> | Danella JKT48 | 192 | 5 |
 | 6 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767270443117.jpg" width="60" /> | Delynn JKT48 | 191 | 6 |
 | 7 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748497049549.jpg" width="60" /> | Giaa JKT48 | 182 | 7 |
-| 8 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1770145602906.jpg" width="60" /> | Erine JKT48 | 124 | 8 |
+| 8 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773234806431.jpg" width="60" /> | Erine JKT48 | 124 | 8 |
 | 9 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496992223.jpg" width="60" /> | Rilly JKT48 | 112 | 9 |
 | 10 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496507881.jpg" width="60" /> | Jemima JKT48 | 111 | 10 |
 | 11 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769478462835.jpg" width="60" /> | Lily JKT48 | 108 | 11 |
