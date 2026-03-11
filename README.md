@@ -2,11 +2,11 @@
 
 🗓 **Periode:** 2026-03-02 07:00:00 WIB – 2026-03-08 07:00:00 WIB
 
-🔄 **Updated at:** 2026-03-11 01:43:10 WIB
+🔄 **Updated at:** 2026-03-11 02:41:37 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
-| 1 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763030673741.jpg" width="60" /> | Fritzy JKT48 | 270 | 1 |
+| 1 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773215363148.jpg" width="60" /> | Fritzy JKT48 | 270 | 1 |
 | 2 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496802271.jpg" width="60" /> | Intan JKT48 | 264 | 2 |
 | 3 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765126633703.jpg" width="60" /> | Lia JKT48 | 245 | 3 |
 | 4 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496471586.jpg" width="60" /> | Ekin JKT48 | 214 | 4 |
