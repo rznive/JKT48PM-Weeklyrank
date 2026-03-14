@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-03-02 07:00:00 WIB – 2026-03-08 07:00:00 WIB
 
-🔄 **Updated at:** 2026-03-14 03:33:31 WIB
+🔄 **Updated at:** 2026-03-14 04:29:26 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -27,7 +27,7 @@
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763909067953.png" width="60" /> | Gracie JKT48 | 90 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769934954334.jpg" width="60" /> | Nala JKT48 | 89 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gita jkt48/gita jkt48.jpg" width="60" /> | Gita JKT48 | 88 | 21 |
-| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767346847445.jpg" width="60" /> | Nachia JKT48 | 86 | 22 |
+| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773482354021.jpg" width="60" /> | Nachia JKT48 | 86 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771571832565.jpg" width="60" /> | Kimmy JKT48 | 84 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 83 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 78 | 25 |
