@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-03-09 07:00:00 WIB – 2026-03-15 07:00:00 WIB
 
-🔄 **Updated at:** 2026-03-20 09:42:40 WIB
+🔄 **Updated at:** 2026-03-20 10:43:24 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -41,7 +41,7 @@
 | 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110747895.jpg" width="60" /> | Raisha JKT48 | 49 | 33 |
 | 34 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771505310510.jpg" width="60" /> | Ribka JKT48 | 45 | 34 |
 | 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767610838156.jpg" width="60" /> | Anindya JKT48 | 41 | 35 |
-| 36 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763043739897.jpg" width="60" /> | Jessi JKT48 | 33 | 36 |
+| 36 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774024167721.jpg" width="60" /> | Jessi JKT48 | 33 | 36 |
 | 37 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 33 | 37 |
 | 38 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768017247229.jpg" width="60" /> | Oline JKT48 | 28 | 38 |
 | 39 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748540467966.jpg" width="60" /> | Chelsea JKT48 | 28 | 39 |
