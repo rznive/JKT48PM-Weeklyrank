@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-03-16 07:00:00 WIB – 2026-03-22 07:00:00 WIB
 
-🔄 **Updated at:** 2026-03-21 20:21:16 WIB
+🔄 **Updated at:** 2026-03-21 22:52:11 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -25,7 +25,7 @@
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 103 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 94 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748494261432.jpg" width="60" /> | Ella JKT48 | 92 | 19 |
-| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774063801465.jpg" width="60" /> | Nala JKT48 | 88 | 20 |
+| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774151362260.jpg" width="60" /> | Nala JKT48 | 88 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773234806431.jpg" width="60" /> | Erine JKT48 | 83 | 21 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771753070127.jpg" width="60" /> | Trisha JKT48 | 79 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749710273340.jpg" width="60" /> | Greesel JKT48 | 77 | 23 |
