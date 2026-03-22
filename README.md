@@ -2,14 +2,14 @@
 
 🗓 **Periode:** 2026-03-16 07:00:00 WIB – 2026-03-22 07:00:00 WIB
 
-🔄 **Updated at:** 2026-03-22 09:27:04 WIB
+🔄 **Updated at:** 2026-03-22 10:31:32 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
 | 1 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496802271.jpg" width="60" /> | Intan JKT48 | 407 | 1 |
 | 2 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765126633703.jpg" width="60" /> | Lia JKT48 | 273 | 2 |
 | 3 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773215363148.jpg" width="60" /> | Fritzy JKT48 | 261 | 3 |
-| 4 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771505310510.jpg" width="60" /> | Ribka JKT48 | 213 | 4 |
+| 4 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774195916793.jpg" width="60" /> | Ribka JKT48 | 213 | 4 |
 | 5 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748497049549.jpg" width="60" /> | Giaa JKT48 | 199 | 5 |
 | 6 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496471586.jpg" width="60" /> | Ekin JKT48 | 190 | 6 |
 | 7 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496507881.jpg" width="60" /> | Jemima JKT48 | 175 | 7 |
