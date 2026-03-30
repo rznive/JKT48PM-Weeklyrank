@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-03-23 07:00:00 WIB – 2026-03-29 07:00:00 WIB
 
-🔄 **Updated at:** 2026-03-30 03:13:02 WIB
+🔄 **Updated at:** 2026-03-30 05:02:08 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -15,7 +15,7 @@
 | 7 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765126633703.jpg" width="60" /> | Lia JKT48 | 187 | 7 |
 | 8 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496507881.jpg" width="60" /> | Jemima JKT48 | 182 | 8 |
 | 9 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773215363148.jpg" width="60" /> | Fritzy JKT48 | 175 | 9 |
-| 10 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773234806431.jpg" width="60" /> | Erine JKT48 | 161 | 10 |
+| 10 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774867350410.jpg" width="60" /> | Erine JKT48 | 161 | 10 |
 | 11 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774842924515.jpg" width="60" /> | Nachia JKT48 | 153 | 11 |
 | 12 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767896705946.jpg" width="60" /> | Levi JKT48 | 138 | 12 |
 | 13 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774195916793.jpg" width="60" /> | Ribka JKT48 | 138 | 13 |
