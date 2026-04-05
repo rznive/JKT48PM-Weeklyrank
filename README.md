@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-03-30 07:00:00 WIB – 2026-04-05 07:00:00 WIB
 
-🔄 **Updated at:** 2026-04-05 06:58:10 WIB
+🔄 **Updated at:** 2026-04-05 07:57:15 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -12,7 +12,7 @@
 | 4 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765126633703.jpg" width="60" /> | Lia JKT48 | 228 | 4 |
 | 5 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496471586.jpg" width="60" /> | Ekin JKT48 | 222 | 5 |
 | 6 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748497049549.jpg" width="60" /> | Giaa JKT48 | 187 | 6 |
-| 7 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774842924515.jpg" width="60" /> | Nachia JKT48 | 175 | 7 |
+| 7 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1775396327745.jpg" width="60" /> | Nachia JKT48 | 175 | 7 |
 | 8 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774867350410.jpg" width="60" /> | Erine JKT48 | 170 | 8 |
 | 9 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 138 | 9 |
 | 10 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774151362260.jpg" width="60" /> | Nala JKT48 | 138 | 10 |
