@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-03-30 07:00:00 WIB – 2026-04-05 07:00:00 WIB
 
-🔄 **Updated at:** 2026-04-05 04:34:35 WIB
+🔄 **Updated at:** 2026-04-05 05:30:07 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -29,7 +29,7 @@
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496541667.jpg" width="60" /> | Mikaela JKT48 | 83 | 21 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/michie jkt48/michie jkt48.jpg" width="60" /> | Michie JKT48 | 82 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1756781665164.jpg" width="60" /> | Indah JKT48 | 79 | 23 |
-| 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771753070127.jpg" width="60" /> | Trisha JKT48 | 77 | 24 |
+| 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1775385886720.jpg" width="60" /> | Trisha JKT48 | 77 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748523415299.jpg" width="60" /> | Cynthia JKT48 | 77 | 25 |
 | 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gita jkt48/gita jkt48.jpg" width="60" /> | Gita JKT48 | 76 | 26 |
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773215363148.jpg" width="60" /> | Fritzy JKT48 | 75 | 27 |
