@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-03-30 07:00:00 WIB – 2026-04-05 07:00:00 WIB
 
-🔄 **Updated at:** 2026-04-05 23:24:42 WIB
+🔄 **Updated at:** 2026-04-06 01:43:57 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -34,7 +34,7 @@
 | 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gita jkt48/gita jkt48.jpg" width="60" /> | Gita JKT48 | 76 | 26 |
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773215363148.jpg" width="60" /> | Fritzy JKT48 | 75 | 27 |
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 75 | 28 |
-| 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774078131234.jpg" width="60" /> | Jessi JKT48 | 69 | 29 |
+| 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1775455733708.jpg" width="60" /> | Jessi JKT48 | 69 | 29 |
 | 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749050823597.jpg" width="60" /> | Oniel JKT48 | 66 | 30 |
 | 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 66 | 31 |
 | 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1770191868426.jpg" width="60" /> | Nayla JKT48 | 61 | 32 |
