@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-03-30 07:00:00 WIB – 2026-04-05 07:00:00 WIB
 
-🔄 **Updated at:** 2026-04-07 01:17:58 WIB
+🔄 **Updated at:** 2026-04-07 03:02:47 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -57,5 +57,4 @@
 | 49 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 14 | 49 |
 | 50 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763817850617.jpg" width="60" /> | Eli JKT48 | 5 | 50 |
 | 51 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1759080652726.jpg" width="60" /> | Gendis JKT48 | 0 | 51 |
-| 57 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/amanda/amanda.png" width="60" /> | Amanda JKT48 | 0 | 57 |
 | 60 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1766692091302.jpg" width="60" /> | Freya JKT48 | 0 | 60 |
