@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-04-20 07:00:00 WIB – 2026-04-26 07:00:00 WIB
 
-🔄 **Updated at:** 2026-04-27 05:04:26 WIB
+🔄 **Updated at:** 2026-04-27 07:54:08 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -21,7 +21,7 @@
 | 13 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774867350410.jpg" width="60" /> | Erine JKT48 | 131 | 13 |
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496507881.jpg" width="60" /> | Jemima JKT48 | 123 | 14 |
 | 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767896705946.jpg" width="60" /> | Levi JKT48 | 119 | 15 |
-| 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1775396327745.jpg" width="60" /> | Nachia JKT48 | 118 | 16 |
+| 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1777297000735.jpg" width="60" /> | Nachia JKT48 | 118 | 16 |
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 117 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 114 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748494261432.jpg" width="60" /> | Ella JKT48 | 105 | 19 |
