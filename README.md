@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-05-25 07:00:00 WIB – 2026-05-31 07:00:00 WIB
 
-🔄 **Updated at:** 2026-05-31 22:05:51 WIB
+🔄 **Updated at:** 2026-06-01 04:19:43 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -25,7 +25,7 @@
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774195916793.jpg" width="60" /> | Ribka JKT48 | 120 | 10 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1772085217891.jpg" width="60" /> | Cathy JKT48 | 111 | 70 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1746694606252.jpg" width="60" /> | Danella JKT48 | 99 | 32 |
-| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1777952286330.jpg" width="60" /> | Nachia JKT48 | 98 | 18 |
+| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1780289953920.jpg" width="60" /> | Nachia JKT48 | 98 | 18 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 95 | 21 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317907696.jpg" width="60" /> | Bella JKT48 | 95 | 24 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767896705946.jpg" width="60" /> | Levi JKT48 | 94 | 17 |
