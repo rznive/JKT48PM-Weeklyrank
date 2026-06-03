@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-05-25 07:00:00 WIB – 2026-05-31 07:00:00 WIB
 
-🔄 **Updated at:** 2026-06-02 22:08:07 WIB
+🔄 **Updated at:** 2026-06-03 03:25:10 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -64,7 +64,6 @@
 | 56 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/muthe jkt48/muthe jkt48.jpg" width="60" /> | Muthe JKT48 | 13 | 30 |
 | 57 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lyn jkt48/lyn jkt48.jpg" width="60" /> | Lyn JKT48 | 11 | 54 |
 | 58 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763909067953.png" width="60" /> | Gracie JKT48 | 10 | 8 |
-| 59 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748540467966.jpg" width="60" /> | Chelsea JKT48 | 9 | 55 |
 | 60 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768017247229.jpg" width="60" /> | Oline JKT48 | 1 | 58 |
 | 64 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763817850617.jpg" width="60" /> | Eli JKT48 | 0 | 64 |
 | 70 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1766692091302.jpg" width="60" /> | Freya JKT48 | 0 | 60 |
