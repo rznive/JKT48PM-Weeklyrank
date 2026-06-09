@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-06-01 07:00:00 WIB – 2026-06-07 07:00:00 WIB
 
-🔄 **Updated at:** 2026-06-08 23:05:40 WIB
+🔄 **Updated at:** 2026-06-09 03:42:51 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -56,7 +56,7 @@
 | 48 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774151362260.jpg" width="60" /> | Nala JKT48 | 36 | 48 |
 | 49 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/michie jkt48/michie jkt48.jpg" width="60" /> | Michie JKT48 | 32 | 49 |
 | 50 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771571832565.jpg" width="60" /> | Kimmy JKT48 | 32 | 50 |
-| 51 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749050823597.jpg" width="60" /> | Oniel JKT48 | 28 | 51 |
+| 51 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1780988221379.jpg" width="60" /> | Oniel JKT48 | 28 | 51 |
 | 52 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1775385886720.jpg" width="60" /> | Trisha JKT48 | 26 | 52 |
 | 53 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767769058694.jpg" width="60" /> | Aralie JKT48 | 25 | 53 |
 | 54 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110747895.jpg" width="60" /> | Raisha JKT48 | 24 | 54 |
