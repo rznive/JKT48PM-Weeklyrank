@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-06-29 07:00:00 WIB – 2026-07-05 07:00:00 WIB
 
-🔄 **Updated at:** 2026-07-06 21:23:05 WIB
+🔄 **Updated at:** 2026-07-07 01:37:41 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -25,7 +25,7 @@
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767270443117.jpg" width="60" /> | Delynn JKT48 | 108 | 8 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1778325453977.jpg" width="60" /> | Nayla JKT48 | 105 | 27 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318091544.jpg" width="60" /> | Jazzy JKT48 | 105 | 29 |
-| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767896705946.jpg" width="60" /> | Levi JKT48 | 102 | 51 |
+| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1783399176793.jpg" width="60" /> | Levi JKT48 | 102 | 51 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1766692091302.jpg" width="60" /> | Freya JKT48 | 101 | 70 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/muthe jkt48/muthe jkt48.jpg" width="60" /> | Muthe JKT48 | 98 | 31 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317429033.jpg" width="60" /> | Fera JKT48 | 98 | 25 |
