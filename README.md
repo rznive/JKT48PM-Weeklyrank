@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-06-29 07:00:00 WIB – 2026-07-05 07:00:00 WIB
 
-🔄 **Updated at:** 2026-07-11 13:18:23 WIB
+🔄 **Updated at:** 2026-07-11 14:46:58 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -10,7 +10,7 @@
 | 2 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318126497.jpg" width="60" /> | Ralyne JKT48 | 304 | 9 |
 | 3 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1746694606252.jpg" width="60" /> | Danella JKT48 | 290 | 33 |
 | 4 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317853847.jpg" width="60" /> | Carissa JKT48 | 285 | 1 |
-| 5 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765126633703.jpg" width="60" /> | Lia JKT48 | 282 | 6 |
+| 5 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1783800931660.jpg" width="60" /> | Lia JKT48 | 282 | 6 |
 | 6 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496471586.jpg" width="60" /> | Ekin JKT48 | 263 | 11 |
 | 7 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496802271.jpg" width="60" /> | Intan JKT48 | 254 | 2 |
 | 8 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317984051.jpg" width="60" /> | Rara JKT48 | 254 | 5 |
