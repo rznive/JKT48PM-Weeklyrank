@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-07-06 07:00:00 WIB – 2026-07-12 07:00:00 WIB
 
-🔄 **Updated at:** 2026-07-13 00:18:36 WIB
+🔄 **Updated at:** 2026-07-13 04:25:48 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -42,7 +42,7 @@
 | 34 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765564066271.jpg" width="60" /> | Kathrina JKT48 | 61 | 34 |
 | 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1778325453977.jpg" width="60" /> | Nayla JKT48 | 59 | 35 |
 | 36 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1780988221379.jpg" width="60" /> | Oniel JKT48 | 58 | 36 |
-| 37 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/muthe jkt48/muthe jkt48.jpg" width="60" /> | Muthe JKT48 | 58 | 37 |
+| 37 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1783926224554.jpg" width="60" /> | Muthe JKT48 | 58 | 37 |
 | 38 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771571832565.jpg" width="60" /> | Kimmy JKT48 | 56 | 38 |
 | 39 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 54 | 39 |
 | 40 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317907696.jpg" width="60" /> | Bella JKT48 | 54 | 40 |
