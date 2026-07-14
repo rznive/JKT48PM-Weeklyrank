@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-07-06 07:00:00 WIB – 2026-07-12 07:00:00 WIB
 
-🔄 **Updated at:** 2026-07-14 10:14:10 WIB
+🔄 **Updated at:** 2026-07-14 12:02:48 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -31,7 +31,7 @@
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748494261432.jpg" width="60" /> | Ella JKT48 | 106 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 103 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1783399176793.jpg" width="60" /> | Levi JKT48 | 95 | 25 |
-| 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1780289953920.jpg" width="60" /> | Nachia JKT48 | 89 | 26 |
+| 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1784048060063.jpg" width="60" /> | Nachia JKT48 | 89 | 26 |
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748523415299.jpg" width="60" /> | Cynthia JKT48 | 83 | 27 |
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318054678.jpg" width="60" /> | Maxine JKT48 | 82 | 28 |
 | 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1772085217891.jpg" width="60" /> | Cathy JKT48 | 77 | 29 |
