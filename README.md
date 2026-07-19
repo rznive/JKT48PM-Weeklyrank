@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-07-13 07:00:00 WIB – 2026-07-19 07:00:00 WIB
 
-🔄 **Updated at:** 2026-07-19 07:38:58 WIB
+🔄 **Updated at:** 2026-07-19 08:54:48 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -22,7 +22,7 @@
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773215363148.jpg" width="60" /> | Fritzy JKT48 | 178 | 14 |
 | 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318159663.jpg" width="60" /> | Sona JKT48 | 178 | 15 |
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317429033.jpg" width="60" /> | Fera JKT48 | 169 | 16 |
-| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1784048060063.jpg" width="60" /> | Nachia JKT48 | 164 | 17 |
+| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1784472064446.jpg" width="60" /> | Nachia JKT48 | 164 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748497049549.jpg" width="60" /> | Giaa JKT48 | 152 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 145 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774867350410.jpg" width="60" /> | Erine JKT48 | 135 | 20 |
