@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-07-13 07:00:00 WIB – 2026-07-19 07:00:00 WIB
 
-🔄 **Updated at:** 2026-07-22 05:46:17 WIB
+🔄 **Updated at:** 2026-07-22 07:52:31 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -25,7 +25,7 @@
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1784472064446.jpg" width="60" /> | Nachia JKT48 | 164 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748497049549.jpg" width="60" /> | Giaa JKT48 | 152 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 145 | 19 |
-| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774867350410.jpg" width="60" /> | Erine JKT48 | 135 | 20 |
+| 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1784723747348.jpg" width="60" /> | Erine JKT48 | 135 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771077467255.jpg" width="60" /> | Daisy JKT48 | 130 | 21 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1775455733708.jpg" width="60" /> | Jessi JKT48 | 112 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769478462835.jpg" width="60" /> | Lily JKT48 | 110 | 23 |
