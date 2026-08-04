@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-07-27 07:00:00 WIB – 2026-08-02 07:00:00 WIB
 
-🔄 **Updated at:** 2026-08-03 22:13:11 WIB
+🔄 **Updated at:** 2026-08-04 01:38:48 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -24,7 +24,7 @@
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763909067953.png" width="60" /> | Gracie JKT48 | 127 | 16 |
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496541667.jpg" width="60" /> | Mikaela JKT48 | 124 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318091544.jpg" width="60" /> | Jazzy JKT48 | 122 | 18 |
-| 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1784472064446.jpg" width="60" /> | Nachia JKT48 | 118 | 19 |
+| 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1785823168870.jpg" width="60" /> | Nachia JKT48 | 118 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317951565.jpg" width="60" /> | Fahira JKT48 | 114 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 112 | 21 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1784723747348.jpg" width="60" /> | Erine JKT48 | 110 | 22 |
