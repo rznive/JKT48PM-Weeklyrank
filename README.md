@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-07-27 07:00:00 WIB – 2026-08-02 07:00:00 WIB
 
-🔄 **Updated at:** 2026-08-04 07:01:36 WIB
+🔄 **Updated at:** 2026-08-04 10:11:15 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -37,7 +37,7 @@
 | 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774151362260.jpg" width="60" /> | Nala JKT48 | 76 | 29 |
 | 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771524586142.jpg" width="60" /> | Fiony JKT48 | 74 | 30 |
 | 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748494261432.jpg" width="60" /> | Ella JKT48 | 69 | 31 |
-| 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774195916793.jpg" width="60" /> | Ribka JKT48 | 67 | 32 |
+| 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1785854998285.jpg" width="60" /> | Ribka JKT48 | 67 | 32 |
 | 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1778325453977.jpg" width="60" /> | Nayla JKT48 | 66 | 33 |
 | 34 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771571832565.jpg" width="60" /> | Kimmy JKT48 | 64 | 34 |
 | 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 57 | 35 |
