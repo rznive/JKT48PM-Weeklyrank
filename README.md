@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-08-17 07:00:00 WIB – 2026-08-23 07:00:00 WIB
 
-🔄 **Updated at:** 2026-08-25 23:33:13 WIB
+🔄 **Updated at:** 2026-08-26 00:48:23 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -26,7 +26,7 @@
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 124 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496992223.jpg" width="60" /> | Rilly JKT48 | 118 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318020235.jpg" width="60" /> | Heidi JKT48 | 111 | 20 |
-| 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1785823168870.jpg" width="60" /> | Nachia JKT48 | 101 | 21 |
+| 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1787723432791.jpg" width="60" /> | Nachia JKT48 | 101 | 21 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317951565.jpg" width="60" /> | Fahira JKT48 | 101 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 97 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1784723747348.jpg" width="60" /> | Erine JKT48 | 81 | 24 |
