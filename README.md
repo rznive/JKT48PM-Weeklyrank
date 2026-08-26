@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-08-17 07:00:00 WIB – 2026-08-23 07:00:00 WIB
 
-🔄 **Updated at:** 2026-08-26 08:42:37 WIB
+🔄 **Updated at:** 2026-08-26 10:16:43 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -35,7 +35,7 @@
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 71 | 27 |
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1778325453977.jpg" width="60" /> | Nayla JKT48 | 68 | 28 |
 | 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 65 | 29 |
-| 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771524586142.jpg" width="60" /> | Fiony JKT48 | 64 | 30 |
+| 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1787759324541.jpg" width="60" /> | Fiony JKT48 | 64 | 30 |
 | 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774151362260.jpg" width="60" /> | Nala JKT48 | 63 | 31 |
 | 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496471586.jpg" width="60" /> | Ekin JKT48 | 63 | 32 |
 | 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317907696.jpg" width="60" /> | Bella JKT48 | 61 | 33 |
