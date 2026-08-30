@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-08-24 07:00:00 WIB – 2026-08-30 07:00:00 WIB
 
-🔄 **Updated at:** 2026-08-30 01:56:28 WIB
+🔄 **Updated at:** 2026-08-30 07:40:14 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -38,7 +38,7 @@
 | 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748523415299.jpg" width="60" /> | Cynthia JKT48 | 72 | 30 |
 | 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 71 | 31 |
 | 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765564066271.jpg" width="60" /> | Kathrina JKT48 | 68 | 32 |
-| 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1774151362260.jpg" width="60" /> | Nala JKT48 | 67 | 33 |
+| 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1788083111946.jpg" width="60" /> | Nala JKT48 | 67 | 33 |
 | 34 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lyn jkt48/lyn jkt48.jpg" width="60" /> | Lyn JKT48 | 64 | 34 |
 | 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748494261432.jpg" width="60" /> | Ella JKT48 | 63 | 35 |
 | 36 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1783926224554.jpg" width="60" /> | Muthe JKT48 | 60 | 36 |
