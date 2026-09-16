@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-09-07 07:00:00 WIB – 2026-09-13 07:00:00 WIB
 
-🔄 **Updated at:** 2026-09-16 08:37:45 WIB
+🔄 **Updated at:** 2026-09-16 12:40:44 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -10,7 +10,7 @@
 | 2 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496802271.jpg" width="60" /> | Intan JKT48 | 382 | 4 |
 | 3 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317984051.jpg" width="60" /> | Rara JKT48 | 330 | 5 |
 | 4 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763909067953.png" width="60" /> | Gracie JKT48 | 268 | 31 |
-| 5 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1783800931660.jpg" width="60" /> | Lia JKT48 | 250 | 6 |
+| 5 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1789573859691.jpg" width="60" /> | Lia JKT48 | 250 | 6 |
 | 6 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496507881.jpg" width="60" /> | Jemima JKT48 | 247 | 3 |
 | 7 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496992223.jpg" width="60" /> | Rilly JKT48 | 226 | 9 |
 | 8 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767270443117.jpg" width="60" /> | Delynn JKT48 | 202 | 17 |
