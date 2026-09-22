@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-09-14 07:00:00 WIB – 2026-09-20 07:00:00 WIB
 
-🔄 **Updated at:** 2026-09-21 21:34:49 WIB
+🔄 **Updated at:** 2026-09-22 03:03:42 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -24,7 +24,7 @@
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318091544.jpg" width="60" /> | Jazzy JKT48 | 138 | 16 |
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1771077467255.jpg" width="60" /> | Daisy JKT48 | 131 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317429033.jpg" width="60" /> | Fera JKT48 | 128 | 18 |
-| 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1790003908620.jpg" width="60" /> | Delynn JKT48 | 124 | 19 |
+| 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1790055497729.jpg" width="60" /> | Delynn JKT48 | 124 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1769478462835.jpg" width="60" /> | Lily JKT48 | 113 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318159663.jpg" width="60" /> | Sona JKT48 | 113 | 21 |
 | 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1783926224554.jpg" width="60" /> | Muthe JKT48 | 112 | 22 |
