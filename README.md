@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-09-28 07:00:00 WIB – 2026-10-04 07:00:00 WIB
 
-🔄 **Updated at:** 2026-10-04 19:38:41 WIB
+🔄 **Updated at:** 2026-10-05 02:26:49 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -20,7 +20,7 @@
 | 12 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496541667.jpg" width="60" /> | Mikaela JKT48 | 178 | 12 |
 | 13 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1773215363148.jpg" width="60" /> | Fritzy JKT48 | 172 | 13 |
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/michie jkt48/michie jkt48.jpg" width="60" /> | Michie JKT48 | 168 | 14 |
-| 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1789551722519.jpg" width="60" /> | Nachia JKT48 | 165 | 15 |
+| 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1791171836645.jpg" width="60" /> | Nachia JKT48 | 165 | 15 |
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 160 | 16 |
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1783399176793.jpg" width="60" /> | Levi JKT48 | 160 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318020235.jpg" width="60" /> | Heidi JKT48 | 150 | 18 |
