@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-09-28 07:00:00 WIB – 2026-10-04 07:00:00 WIB
 
-🔄 **Updated at:** 2026-10-10 03:28:58 WIB
+🔄 **Updated at:** 2026-10-10 09:44:40 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -52,7 +52,7 @@
 | 44 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lyn jkt48/lyn jkt48.jpg" width="60" /> | Lyn JKT48 | 44 | 44 |
 | 45 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 42 | 45 |
 | 46 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765564066271.jpg" width="60" /> | Kathrina JKT48 | 38 | 46 |
-| 47 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1775385886720.jpg" width="60" /> | Trisha JKT48 | 37 | 47 |
+| 47 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1791634046995.jpg" width="60" /> | Trisha JKT48 | 37 | 47 |
 | 48 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 37 | 48 |
 | 49 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1778325453977.jpg" width="60" /> | Nayla JKT48 | 30 | 49 |
 | 50 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767610838156.jpg" width="60" /> | Anindya JKT48 | 26 | 50 |
