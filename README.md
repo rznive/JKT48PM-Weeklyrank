@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-10-12 07:00:00 WIB – 2026-10-18 07:00:00 WIB
 
-🔄 **Updated at:** 2026-10-20 03:10:17 WIB
+🔄 **Updated at:** 2026-10-20 08:42:34 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -60,7 +60,7 @@
 | 52 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763909067953.png" width="60" /> | Gracie JKT48 | 9 | 52 |
 | 53 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767809890060.jpg" width="60" /> | Elin JKT48 | 8 | 53 |
 | 54 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lulu/lulu.jpg" width="60" /> | Lulu JKT48 | 4 | 54 |
-| 55 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768017247229.jpg" width="60" /> | Oline JKT48 | 2 | 55 |
+| 55 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1792493477050.jpg" width="60" /> | Oline JKT48 | 2 | 55 |
 | 56 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1759080652726.jpg" width="60" /> | Gendis JKT48 | 0 | 56 |
 | 65 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1772085217891.jpg" width="60" /> | Cathy JKT48 | 0 | 65 |
 | 67 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1764141072645.jpg" width="60" /> | Alya JKT48 | 0 | 67 |
