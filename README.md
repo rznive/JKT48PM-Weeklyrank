@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-10-12 07:00:00 WIB – 2026-10-18 07:00:00 WIB
 
-🔄 **Updated at:** 2026-10-21 19:15:27 WIB
+🔄 **Updated at:** 2026-10-22 01:09:44 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -22,7 +22,7 @@
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1775455733708.jpg" width="60" /> | Jessi JKT48 | 156 | 14 |
 | 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318126497.jpg" width="60" /> | Ralyne JKT48 | 150 | 15 |
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318091544.jpg" width="60" /> | Jazzy JKT48 | 140 | 16 |
-| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1792424189127.jpg" width="60" /> | Nachia JKT48 | 133 | 17 |
+| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1792652566542.jpg" width="60" /> | Nachia JKT48 | 133 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gita jkt48/gita jkt48.jpg" width="60" /> | Gita JKT48 | 104 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317951565.jpg" width="60" /> | Fahira JKT48 | 104 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748497049549.jpg" width="60" /> | Giaa JKT48 | 100 | 20 |
