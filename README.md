@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-11-02 07:00:00 WIB – 2026-11-08 07:00:00 WIB
 
-🔄 **Updated at:** 2026-11-11 15:54:09 WIB
+🔄 **Updated at:** 2026-11-11 23:54:33 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -19,7 +19,7 @@
 | 11 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318159663.jpg" width="60" /> | Sona JKT48 | 159 | 18 |
 | 12 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318126497.jpg" width="60" /> | Ralyne JKT48 | 157 | 13 |
 | 13 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778318054678.jpg" width="60" /> | Maxine JKT48 | 153 | 10 |
-| 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1792652566542.jpg" width="60" /> | Nachia JKT48 | 142 | 23 |
+| 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1794392389262.jpg" width="60" /> | Nachia JKT48 | 142 | 23 |
 | 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/michie jkt48/michie jkt48.jpg" width="60" /> | Michie JKT48 | 134 | 16 |
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1746694606252.jpg" width="60" /> | Danella JKT48 | 132 | 6 |
 | 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/c33ea86b-5e59-4122-917e-c2c3958cada8/profile-img-1778317951565.jpg" width="60" /> | Fahira JKT48 | 126 | 31 |
