@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2026-11-09 07:00:00 WIB – 2026-11-15 07:00:00 WIB
 
-🔄 **Updated at:** 2026-11-20 12:55:44 WIB
+🔄 **Updated at:** 2026-11-20 22:00:03 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -64,6 +64,5 @@
 | 56 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1759080652726.jpg" width="60" /> | Gendis JKT48 | 0 | 56 |
 | 65 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1792493477050.jpg" width="60" /> | Oline JKT48 | 0 | 65 |
 | 66 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1772085217891.jpg" width="60" /> | Cathy JKT48 | 0 | 66 |
-| 68 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1764141072645.jpg" width="60" /> | Alya JKT48 | 0 | 68 |
 | 69 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 0 | 69 |
 | 70 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1766692091302.jpg" width="60" /> | Freya JKT48 | 0 | 70 |
